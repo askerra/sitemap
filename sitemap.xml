@@ -10,6 +10,11 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
+<loc>https://www.askerra.com/faq</loc>
+<priority>0.95</priority>
+<changefreq>weekly</changefreq>
+</url>
+<url>
 <loc>https://www.askerra.com/sat-masterclass-combo</loc>
 <priority>0.96</priority>
 <changefreq>weekly</changefreq>
