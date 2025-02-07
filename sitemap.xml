@@ -1,247 +1,90 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.askerra.com/</loc>
-<priority>1.0</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/sat-masterclasses</loc>
-<priority>0.98</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/faq</loc>
-<priority>0.95</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/sat-masterclass-combo</loc>
-<priority>0.96</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/math-mastery-sundays</loc>
-<priority>0.94</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/privacy</loc>
-<priority>0.92</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/getting-started-with-the-sat</loc>
-<priority>0.9</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/mastering-english-syntax-january</loc>
-<priority>0.88</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/nailing-sat-math</loc>
-<priority>0.86</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/mastering-desmos</loc>
-<priority>0.84</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/math-foundations</loc>
-<priority>0.82</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/road-to-750</loc>
-<priority>0.8</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/contact</loc>
-<priority>0.78</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog</loc>
-<priority>0.76</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/categories/strategy</loc>
-<priority>0.74</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/categories/mindset</loc>
-<priority>0.72</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/categories/reading_writing</loc>
-<priority>0.7</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/categories/math</loc>
-<priority>0.68</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog?page=2</loc>
-<priority>0.66</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog?page=3</loc>
-<priority>0.64</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog?page=4</loc>
-<priority>0.62</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/how-to-choose-between-the-sat-and-act</loc>
-<priority>0.6</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/transform-burnout-into-focus-for-sat-success</loc>
-<priority>0.58</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/proven-mindset-hacks-to-boost-your-sat-score</loc>
-<priority>0.56</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/what-your-sat-score-really-means-for-college-admissions</loc>
-<priority>0.54</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/the-ultimate-guide-to-the-digital-sat-bluebook-2025-edition</loc>
-<priority>0.52</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/how-sleep-nutrition-and-hydration-can-transform-your-sat-performance</loc>
-<priority>0.5</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/sat-prep-myths-that-hurt-your-score</loc>
-<priority>0.48</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/outsmarting-the-sats-dirty-tricks</loc>
-<priority>0.46</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/the-most-overlooked-grammar-rules-on-the-sat</loc>
-<priority>0.44</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/learn-how-to-make-your-writing-concise</loc>
-<priority>0.42</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/quickly-identify-wrong-answers-in-sat-reading</loc>
-<priority>0.4</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/how-to-answer-authors-perspective-questions</loc>
-<priority>0.38</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/sat-masterclass-benefits</loc>
-<priority>0.36</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/top-mistakes-on-the-digital-sat</loc>
-<priority>0.34</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/tips-for-on-screen-reading</loc>
-<priority>0.32</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/bluebook-app-what-to-expect</loc>
-<priority>0.3</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/understanding-variables-in-sat-math</loc>
-<priority>0.28</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/breaking-down-function-questions</loc>
-<priority>0.26</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/run-on-sentences-and-comma-splices</loc>
-<priority>0.24</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/evidence-vs-opinion-in-sat-reading</loc>
-<priority>0.22</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/paired-passages-and-conflicting-viewpoints</loc>
-<priority>0.2</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/improving-sat-vocabulary</loc>
-<priority>0.18</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/multi-part-math-questions</loc>
-<priority>0.16</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/solving-sat-math-word-problems-faster</loc>
-<priority>0.14</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/blog/how-to-tackle-math-anxiety</loc>
-<priority>0.12</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/terms</loc>
-<priority>0.1</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/privacy</loc>
-<priority>0.08</priority>
-<changefreq>weekly</changefreq>
-</url>
-<url>
-<loc>https://www.askerra.com/login</loc>
-<priority>0.06</priority>
-<changefreq>weekly</changefreq>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.askerra.com/</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-courses</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/private-sat-tutoring</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/complete-prep-package</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/faq</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-prep-concierge</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-geometry-course</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/advanced-sat-math-course</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-english-mastering-grammar-and-syntax</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-math-mastering-problem-solving</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-algebra-course</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/sat-english-mastering-reading</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/contact</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/categories/strategy</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/categories/mindset</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/categories/reading_writing</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/categories/math</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog?page=2</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog?page=3</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog?page=4</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog?page=5</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/digital-sat-guide-2025</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/sat-bluebook-test-day-tips</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/digital-sat-reading-strategies</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/common-digital-sat-mistakes</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/bluebook-practice-tests-for-the-digital-sat</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/blog/how-to-take-effective-digital-notes</loc>
+  </url>
+  <url>
+    <loc>https://www.askerra.com/about_us</loc>
+  </url>
 </urlset>
